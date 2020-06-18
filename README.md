@@ -1,2 +1,3 @@
-# olamundo
- primeiro repositorio versionado
+# Olá, mundo.
+ Repositório copiado do Guanabara pois meu professor é um *****
+
